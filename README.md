@@ -1,5 +1,5 @@
 # Alurabooks
-Esse projeto é para treinar conceitos HTML e CSS, usando protótipos feitos pela Alura
+Esse projeto é para treinar responsividade com HTML e CSS, utilizando um protótipo da Alura.
 
 ## Protótipo Figma
 https://www.figma.com/file/sSMbIqKaGBd66Y8roxTk2p/AluraBooks?type=design&node-id=126%3A4365&t=jWWVZ8gsuX7pkjcq-1
